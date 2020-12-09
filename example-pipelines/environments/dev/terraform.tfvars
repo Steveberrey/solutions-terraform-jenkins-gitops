@@ -1,4 +1,4 @@
-project_id = "jenkins-298016"
+project_id = "psosapproj"
 environment = "dev"
 subnet1_region = "us-central1"
 subnet1_zone = "us-central1-a"

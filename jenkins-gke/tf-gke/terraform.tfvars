@@ -1,7 +1,7 @@
 
 
-project_id = "jenkins-298016"
-tfstate_gcs_backend = "jenkins-298016-tfstate"
+project_id = "psosapproj"
+tfstate_gcs_backend = "psosapproj-tfstate"
 region = "us-east4"
 zones = ["us-east4-a"]
 ip_range_pods_name = "ip-range-pods"
